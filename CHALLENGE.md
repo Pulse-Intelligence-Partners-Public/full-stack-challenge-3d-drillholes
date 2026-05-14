@@ -1,6 +1,7 @@
 # Product Engineer - Take-Home Challenge
 
 **Time Expectation:** 4-6 hours
+
 **Submission Window:** 72 hours from receipt
 
 ---
