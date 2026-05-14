@@ -24,7 +24,7 @@ Using the attached drilling announcement and the data extracted from it, build a
 3. **Highlights** the mineralised intercept intervals along each hole, coloured by grade
 4. **Lets the user** interact with the scene (orbit, zoom, click a hole or intercept to inspect it) and reference the source PDF
 
-You pick the stack. Three.js, react-three-fiber, deck.gl, Cesium, Mapbox with a 3D layer — anything that gets the outcome. The brief is intentionally open-ended; we want to see the calls you make.
+You pick the stack — anything that gets the outcome. The brief is intentionally open-ended; we want to see the calls you make.
 
 ---
 
@@ -52,13 +52,13 @@ Three files in `data/`, all for a single ASX announcement (Comet Vale gold proje
 
 ## Stretch Goal
 
-Deploy your solution somewhere we can test it (Vercel, Railway, Render, GitHub Pages, etc.). Include the URL in your NOTES.md.
+Deploy your solution somewhere we can test it. Include the URL in your NOTES.md.
 
 ---
 
 ## Submission
 
-Use the "Use this template" button to create your own repo, then push your work there. Share access with @stephendegoede when you're done.
+Use the "Use this template" button to create your own repo, then push your work there. Share access with @stephendegoede and @tva1992 when you're done.
 
 **Include:**
 
